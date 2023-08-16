@@ -6,3 +6,4 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Ten Nights",
 	Text = "ANTI-LOCK LOADED",
 })
+end)
